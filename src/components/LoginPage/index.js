@@ -55,7 +55,7 @@ class LoginPage extends Component {
         </label>
         <input
           type="text"
-          placeholder="Username"
+          placeholder="Username : rahul"
           id="username"
           className="input-field"
           value={userName}
@@ -74,7 +74,7 @@ class LoginPage extends Component {
         </label>
         <input
           type="password"
-          placeholder="Password"
+          placeholder="Password: rahul@2021"
           id="password"
           className="input-field"
           value={password}
