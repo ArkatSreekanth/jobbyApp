@@ -1,0 +1,4 @@
+.similar-job-loc-and-emp-type {
+  display: flex;
+  flex-direction: row;
+}
